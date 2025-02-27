@@ -1,0 +1,9 @@
+name: mc
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab=4.3.5
+  - numpy=2.2.3
+  - pandas=2.2.3
+  - plotly=6.0.0
+  - python=3.12
