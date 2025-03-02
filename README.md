@@ -14,10 +14,10 @@ The materials have been made available under an [MIT license](LICENCE).  The mat
 Please feel free to use or adapt the code for your own work. But if so then a citation would be very much appreciated! 
 
 ```bibtex
-@software{An introduction to monte-carlo simulation in Python,
+@software{opensciencenerd_montecarlo,
 author = {Monks, Thomas },
 license = {MIT},
-title = {{The replications algorithm for DES in Python}},
+title = {{An introduction to monte-carlo simulation in Python}},
 url = {https://github.com/TheOpenScienceNerd/replications-algorithm}
 }
 ```

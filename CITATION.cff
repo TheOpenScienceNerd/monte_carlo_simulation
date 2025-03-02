@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: An introduction to monte-carlo simulation in Python
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Thomas '
+    family-names: Monks
+    affiliation: University of Exeter
+    orcid: 'https://orcid.org/0000-0003-2631-4481'
+repository-code: 'https://github.com/TheOpenScienceNerd/monte_carlo_simulation'
+keywords:
+  - monte carlo simulation
+  - python
+  - open science
+license: MIT
