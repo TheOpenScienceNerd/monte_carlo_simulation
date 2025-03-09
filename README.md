@@ -58,11 +58,15 @@ jupyter-lab
 ├── CITATION.cff
 ├── LICENSE
 ├── 01_mc_investment_decision.ipynb
+├── 02_mc_newsvendor.ipynb
+├── newsvendor.py
 └── README.md
 ```
 
 * `binder/environment.yml` - contains the conda environment if you wish to work the models.
 * `01_mc_investment_decision.ipynb` - an investment decision problem from Pidd (2004).
+* `02_mc_newsvendor.ipynb` - a simple multi-period newsvendor problem monte carlo simulation
+* `newsvendor.py` - module containing newsvendor problem code
 * `CHANGES.md` - changelog with record of notable changes to project between versions.
 * `CITATION.cff` - citation information for the package.
 * `LICENSE` - details of the MIT permissive license of this work.
