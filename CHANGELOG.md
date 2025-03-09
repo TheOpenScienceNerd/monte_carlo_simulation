@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Consistent identifier (represents all versions, resolves to latest): 
 
+## [v0.2.0 - 2025-03-01]()
+
+
+## Added
+
+* `02_mc_newsvendor.ipynb`: implementation of a simple multi-period newsvendor problem.
+* `newsvendor.py` - module containing the newsvendor code + ploty analysis charts.
+
 ## :seedling: [v0.1.0 - 2025-03-02]() 
 
 ### Added
